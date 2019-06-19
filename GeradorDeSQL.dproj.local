@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019/06/18 22:28:24.333,=C:\Users\rbela\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/18 22:40:42.830,C:\Users\rbela\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteLuis\FGeradorDeSQL.dfm=C:\Users\rbela\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/06/18 22:40:42.830,C:\Users\rbela\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteLuis\FGeradorDeSQL.pas=C:\Users\rbela\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/18 22:41:14.852,C:\Users\rbela\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteLuis\GeradorDeSQL.dproj=C:\Users\rbela\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/06/18 22:42:07.399,=C:\Users\rbela\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteLuis\Unit2.pas</Transaction>
+    <Transaction>2019/06/18 22:45:40.128,C:\Users\rbela\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteLuis\UConstantes.pas=C:\Users\rbela\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteLuis\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
